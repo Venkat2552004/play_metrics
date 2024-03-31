@@ -1,0 +1,22 @@
+{
+  "name": "play_metrics",
+  "version": "1.0.0",
+  "description": "An npm module to change metrics",
+  "main": "converter.js",
+  "scripts": {
+    "test": "npm test index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Venkat2552004/play_metrics.git"
+  },
+  "keywords": [
+    "venkat5e0"
+  ],
+  "author": "Mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Venkat2552004/play_metrics/issues"
+  },
+  "homepage": "https://github.com/Venkat2552004/play_metrics#readme"
+}
